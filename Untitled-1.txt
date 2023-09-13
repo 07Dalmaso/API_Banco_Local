@@ -1,0 +1,16 @@
+API :
+é um conjunto de rotinas que realiza comunicação entre aplicações que deseja compartilhar dados
+(dados para ser consumidos)
+
+-node.js para criar a aplicação
+
+-Vamos utilizar as dependecias {
+    -express framework for node
+    -body-parser
+    -cors
+    -nodemon(hotReload)
+    -morgan
+}
+
+-npm i express body-parser morgan cors nodemon
+
